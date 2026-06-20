@@ -1,0 +1,20 @@
+.app-container {
+  font-family: Arial, sans-serif;
+  max-width: 600px;
+  margin: 50px auto;
+  text-align: center;
+  padding: 20px;
+}
+
+.card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 20px;
+  margin-top: 20px;
+  background-color: #f9f9f9;
+}
+
+.loading { color: #666; font-style: italic; }
+.error { color: #ff3333; font-weight: bold; }
+.success-tag { color: #2e7d32; font-weight: bold; text-transform: uppercase; font-size: 12px;}
+.success-box { background: #e8f5e9; padding: 10px; border-radius: 5px; border: 1px solid #c8e6c9;}
